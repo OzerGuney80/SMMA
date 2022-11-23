@@ -1,0 +1,1 @@
+CRM: Client Relationship Management --> Place where we store leads
